@@ -48,30 +48,7 @@ streamlit run chatbot.py
 - Start chatting with Gemini AI!
 
 ## 🎨 User Interface Preview
-> _*(Add a screenshot or GIF of your chatbot interface here!)*_
-
-## 🖥️ Deployment
-You can deploy this chatbot using **Render** or **GitHub Actions**.
-
-### 📌 Deploy on Render:
-1. Create an account on [Render](https://render.com/).
-2. Connect your GitHub repository.
-3. Set up environment variables (`API_KEY`).
-4. Deploy the application!
-
-### 📌 Deploy Using GitHub Actions:
-1. Create a **workflow file** in `.github/workflows/`.
-2. Add deployment steps to install dependencies and run the chatbot.
-3. Commit and push to GitHub.
-4. The chatbot will be deployed automatically.
-
-## 🌟 Contributing
-Contributions are welcome! To contribute:  
-1. **Fork** this repository.  
-2. **Create a new branch** (`git checkout -b feature-branch`).  
-3. **Commit your changes** (`git commit -m "Added new feature"`).  
-4. **Push to your branch** (`git push origin feature-branch`).  
-5. **Submit a Pull Request**.
+![alt text](image.png)
 
 ## ⚖️ License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
