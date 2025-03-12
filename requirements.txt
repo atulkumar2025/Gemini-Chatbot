@@ -1,0 +1,3 @@
+pip install openai streamlit python-dotenv
+pip freeze > requirements.txt
+pip install streamlit google-generativeai
